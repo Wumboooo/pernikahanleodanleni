@@ -401,6 +401,7 @@ footer li {
   }
 
   .simply-countdown > .simply-section {
+    flex-direction: row; /* PENTING: agar horizontal */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -449,6 +450,7 @@ footer li {
   }
 
   .simply-countdown > .simply-section {
+    flex-direction: row; /* PENTING: agar horizontal */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -479,6 +481,7 @@ footer li {
   }
 
   .simply-countdown > .simply-section {
+    flex-direction: row; /* PENTING: agar horizontal */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
